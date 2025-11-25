@@ -30,11 +30,9 @@ I turn raw data into actionable insights using Python and classic ML algorithms.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[📊 Predictive Modeling Portfolio]([https://github.com/TeePilzz](https://github.com/TeePilzz/ml-portfolio))** | *Collection of projects focused on tabular data analysis, regression, and classification tasks.* | `Python` `Sklearn` `XGBoost` |
+| **[📊 Predictive Modeling Portfolio](https://github.com/TeePilzz/ml-portfolio)** | *Collection of projects focused on tabular data analysis, regression, and classification tasks.* | `Python` `Sklearn` `XGBoost` |
 
 <br/>
-
-
 ---
 
 ### 📫 Let's Connect
