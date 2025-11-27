@@ -31,8 +31,7 @@ I turn raw data into actionable insights using Python and classic ML algorithms.
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[📊 Predictive Modeling Portfolio](https://github.com/TeePilzz/ml-portfolio)** | *Collection of projects focused on tabular data analysis, regression, and classification tasks.* | `Python` `Sklearn` `XGBoost` |
-
-<br/>
+| **[🤖 HSE FAQ Bot](https://github.com/TeePilzz/ml-portfolio)** | *Smart Telegram bot for university FAQs using TF-IDF & Word2Vec.* | `Python` `Aiogram` `Gensim` |
 ---
 
 ### 📫 Let's Connect
