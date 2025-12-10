@@ -31,8 +31,8 @@ I turn raw data into actionable insights using Python and classic ML algorithms.
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[📊 Predictive Modeling Portfolio](https://github.com/TeePilzz/ml-portfolio)** | *Collection of projects focused on tabular data analysis, regression, and classification tasks.* | `Python` `Sklearn` `XGBoost` |
-| **[🤖 HSE FAQ Bot](https://github.com/TeePilzz/ml-portfolio)** | *Smart Telegram bot for university FAQs using TF-IDF & Word2Vec.* | `Python` `Aiogram` `Gensim` |
-| **[🌲 Wildlife Monitoring System](https://github.com/TeePilzz/ml-portfolio)** | *Automated biodiversity monitoring system using Computer Vision (ResNet-18) to classify animals from camera traps.* | `Python` `Transformers` `ResNet-18` |
+| **[🤖 HSE FAQ Bot](https://github.com/TeePilzz/ml-portfolio/tree/5db40981d182eace9ca16d94ff7916da1d79722d/04-hse-faq-bot)** | *Smart Telegram bot for university FAQs using TF-IDF & Word2Vec.* | `Python` `Aiogram` `Gensim` |
+| **[🌲 Wildlife Monitoring System](https://github.com/TeePilzz/ml-portfolio/tree/main/wildlife-monitoring-system)** | *Automated biodiversity monitoring system using Computer Vision (ResNet-18) to classify animals from camera traps.* | `Python` `Transformers` `ResNet-18` |
 
 ### 📫 Let's Connect
 
